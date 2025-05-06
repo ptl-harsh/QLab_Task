@@ -3,6 +3,17 @@
 
 The two projects based on Timeseries and Image Restoration.
 
+Time Series:
+- P1T1 : Multivariate Time series Imputation - using Transformer Encoder 
+- P1T2 : Time series forecasting using DLinear
+- P1T3 : Multivariate Time series forecasting using Conditional Diffusion Model (DDPM)
+
+Image Restoration:
+- P2T1 : Denoising using DNCNN architecture
+- P2T2 : Denoising using Unet architecture
+
+
+
 # Time Series: 
 
 W&B Dashboard URL: https://wandb.ai/hvpatel-me-nit-patna/QLabIntern2025_Imputation/table?nw=nwuserhvpatelme
