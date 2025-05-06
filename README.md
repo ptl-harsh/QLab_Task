@@ -12,7 +12,7 @@ Image Restoration:
 - P2T1 : Denoising using DNCNN architecture
 - P2T2 : Denoising using Unet architecture
 
-
+***
 
 # Time Series: 
 
