@@ -1,5 +1,5 @@
 
-# QLab2025 Task
+# QLab2025
 
 The two projects based on Timeseries and Image Restoration.
 
