@@ -59,10 +59,10 @@ Each task is associated with a specific filename within the project repository.
 
 - **Weights & Biases (W&B) Dashboard:** Track and visualize experiments. [Dashboard URL](https://wandb.ai/hvpatel-me-nit-patna/QLabIntern2025_Imputation/table?nw=nwuserhvpatelme)
 
+--- 
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 
 ## Image Restoration
@@ -91,6 +91,8 @@ Each task is associated with a specific filename within the project repository.
 - **Evaluation Metrics:** PSNR, SSIM
 - **Visualization:** Display denoised images and metrics.
 
+
+<br>
 
 ## References
 
